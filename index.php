@@ -1,7 +1,7 @@
 <?php
 	
-	header('location:http://www.tienda.insucompvalpo.cl');
-	//include "control/config/ini_config.php";
+	//header('location:http://www.tienda.insucompvalpo.cl');
+	include "control/config/ini_config.php";
 ?>
 <!DOCTYPE html>
 <html lang="es">
