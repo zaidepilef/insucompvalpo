@@ -1,0 +1,15 @@
+IDCOMERCIO     = 597026016975
+MEDCOM         = 2
+PARAMVERIFCOM  = 1
+URLCGICOM      = 
+SERVERCOM      = 
+PORTCOM        = 
+WHITELISTCOM   = ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789./:=&?_
+HOST           = 
+WPORT          = 
+URLCGITRA      = /cgi-bin/bp_revision.cgi
+URLCGIMEDTRA   = /cgi-bin/bp_validacion.cgi
+SERVERTRA      = https://certificacion.webpay.cl
+PORTTRA        = 6443
+PREFIJO_CONF_TR   = HTML_
+HTML_TR_NORMAL = 
