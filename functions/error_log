@@ -1,0 +1,2 @@
+[12-Jan-2015 07:13:18 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/nexzaidn/public_html/insucomp/functions/send_mail.php on line 12
+[12-Jan-2015 07:14:24 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/nexzaidn/public_html/insucomp/functions/send_mail.php on line 12
